@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vanchhita22/EJS_Task_Delote.git/static/css/main.61471fe0.css",
+    "main.js": "/Vanchhita22/EJS_Task_Delote.git/static/js/main.f1d08c44.js",
+    "index.html": "/Vanchhita22/EJS_Task_Delote.git/index.html",
+    "main.61471fe0.css.map": "/Vanchhita22/EJS_Task_Delote.git/static/css/main.61471fe0.css.map",
+    "main.f1d08c44.js.map": "/Vanchhita22/EJS_Task_Delote.git/static/js/main.f1d08c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61471fe0.css",
+    "static/js/main.f1d08c44.js"
+  ]
+}
